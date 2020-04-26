@@ -28,7 +28,7 @@ Image {
 
     source: wallpaperResolver.background
 
-    WallpaperResolver {
+    ImageResolver {
         id: wallpaperResolver
     }
 
